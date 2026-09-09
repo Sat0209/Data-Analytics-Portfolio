@@ -251,7 +251,7 @@ Customer-Churn-Prediction/
 │
 ├── Customer_Churn_Prediction.ipynb
 ├── README.md
-└── Dataset/
+└── customer_churn_dataset_10000.csv
 ```
 
 ---
