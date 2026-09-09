@@ -139,6 +139,11 @@ Analyzed frequently occurring 3-product combinations to identify potential bundl
 
 ---
 
+## 📸 Key Visualizations
+
+### 1. Top 10 Most Frequently Purchased Products
+
+
 # 🔑 Key Business Insights
 
 ### 🥛 1. Whole Milk is the Strongest Anchor Product
