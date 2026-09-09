@@ -142,6 +142,16 @@ Analyzed frequently occurring 3-product combinations to identify potential bundl
 ## 📸 Key Visualizations
 
 ### 1. Top 10 Most Frequently Purchased Products
+![Top Products](Images/Top 10 products.png)
+
+### 2. Most Frequent Product Combinations
+
+![Product Combinations](Images/Top product combinations.png)
+
+### 3. Top Product Bundles
+
+![Product Bundles](Images/Top 3 product bundles.png)
+
 
 
 # 🔑 Key Business Insights
